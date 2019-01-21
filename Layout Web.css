@@ -1,0 +1,123 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial;
+	padding: 10px;
+	background: white;
+}
+
+/*Header*/
+.header {
+	padding: 30px;
+	text-align: left;
+	background-image: url(bts2.jpg);
+	color: midnightblue;
+}
+.header h1 {
+	font-size: 50px;
+}
+
+/*top navigation */
+.topnav {
+	overflow: hidden;
+	background-color: mediumvioletred;
+}
+
+/*topnav links */
+.topnav a {
+	float: left;
+	display: block;
+	color: yellow;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* color on hover */
+.topnav a:hover {
+	background-color: white;
+	color: black;
+}
+
+/*Left column */
+.leftcolumn {
+	float: left;
+	width:60%;
+}
+
+/*Right column */
+.rightcolumn {
+	float: left;
+	width: 40%;
+	background-color: white;
+	padding-left: 20px
+}
+
+/*Fake image */
+.fakeimg {
+	background-image: url(bts1.jpg);
+	background-repeat: no-repeat;
+	width: 85%;
+	padding: 30px;
+}
+.gambar3 {
+	background-image: url(bts16.jpg);
+	background-repeat: no-repeat;
+	width:100%;	
+}
+.gambar6{
+	background-image: url(kpop2.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+/*Add a card effect for the articles */
+.card {
+	background-color: paleturquoise; 
+	padding: 20px;
+	margin-top: 20px;
+}
+.card2 {
+	background-color: lightpink;
+	padding: 20px;
+	margin-top: 20px;
+}
+.card3 {
+	background-color: thistle;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+/*Clear floats after the columns */
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/*Footer */
+.footer {
+	padding: 10px;
+	height: 150px;
+	text-align: center;
+	background: white;
+	margin-top: 50px;
+}
+
+/* Responsive layout */
+@media screen and (max-width: 800px) {
+	.leftcolumn, .rightcolumn {
+		width: 100%;
+		padding: 0;
+	}
+}
+
+/*Responsive layout */
+@media screen and (max-width: 400px) {
+	.topnav a {
+		float: none;
+		width: 100%;
+	}
+}
