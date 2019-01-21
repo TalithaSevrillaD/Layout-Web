@@ -1,1 +1,15 @@
 # Layout-Web
+#Screenshot Hasil
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/Hasil.JPG?raw=true)
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/Hasil1.JPG?raw=true)
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/Hasil2.JPG?raw=true)
+#Screenshot link (About)
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/About.JPG?raw=true)
+#Screenshot link(Youtube)
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/Youtube.JPG?raw=true)
+#Screenshot link(Instagram)
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/Instagram.JPG?raw=true)
+#Screenshot link(Twitter)
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/twitter.JPG?raw=true)
+#Screenshot link(SignUp)
+![alt](https://github.com/TalithaSevrillaD/Layout-Web/blob/master/SignUp.JPG?raw=true)
